@@ -4,6 +4,7 @@ test aplikasi stok dengan Laravel 8 - CRUD API - API ENDPOINT
 Framework : Laravel 8
 Engine  : PHP 8
 RDBMS : MYSQL
+File : stok.sql
 Api Endpoint :
 
 #tabel Users_role 
